@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Favorite Esport Team"
+date:   2020-09-21 21:09:37 +0700
+---
+
+Game Tv
+===========
+
+![image](/_images/gametv.png)
+
+GameTv là một đội tuyển huyền thoại - một trong những đội tuyển đầu tiên và đặt nền móng vững chắc cho nền Liên Quân Việt Nam.
+Thành tích :
+- Quán quân Đấu trường Danh vọng mùa Đông 2017
+- Á quân AWC 2019
