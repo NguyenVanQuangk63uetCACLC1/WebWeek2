@@ -11,4 +11,4 @@ title: "Home"
 **Univesity:** University of Engineering and Technology - Vietnam National University
 
 **Student ID:** 18021052
-![image](donghai.jpg)
+
