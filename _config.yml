@@ -16,10 +16,9 @@
 title: Blog
 email: nguyenvanquanga1qck53@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Web blog
 baseurl: "WebWeek2"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: NguyenQuang
+facebook_username: Nguyen Van Quang
 github_username:  NguyenVanQuangk63uetCACLC1
 
 # Build settings
